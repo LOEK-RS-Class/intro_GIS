@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Applied GIS for Landscape Ecology",
+    "section": "",
+    "text": "Hanna Meyer and Marvin Ludwig (Working group for remote sensing and spatial modelling at the institute of landscape ecology)"
+  },
+  {
+    "objectID": "index.html#instructors",
+    "href": "index.html#instructors",
+    "title": "Applied GIS for Landscape Ecology",
+    "section": "",
+    "text": "Hanna Meyer and Marvin Ludwig (Working group for remote sensing and spatial modelling at the institute of landscape ecology)"
+  },
+  {
+    "objectID": "index.html#why-gis-in-landscape-ecology",
+    "href": "index.html#why-gis-in-landscape-ecology",
+    "title": "Applied GIS for Landscape Ecology",
+    "section": "Why GIS in landscape ecology?",
+    "text": "Why GIS in landscape ecology?"
+  },
+  {
+    "objectID": "index.html#aims",
+    "href": "index.html#aims",
+    "title": "Applied GIS for Landscape Ecology",
+    "section": "Aims",
+    "text": "Aims\nIn this course you will get an introductory overview of typical methods of geoinformatics in the field of landscape ecology. We will use QGIS as a software, however, once you know one GIS system, you should be able to transfer your skills beyond GIS if desired/required.\nAfter this course you should… * be familiar with the common terminology and concepts in geospatial data analysis * know your toolbox of common GIS functions and be able to select and use the suitable GIS functions for your tasks * able to create, manipulate, analyze and visualize vector and raster data (in QGIS) * most importantly be able to independently use GIS beyond the example tasks of this course!"
+  },
+  {
+    "objectID": "index.html#course-structure-and-study-tasks",
+    "href": "index.html#course-structure-and-study-tasks",
+    "title": "Applied GIS for Landscape Ecology",
+    "section": "Course structure and study tasks",
+    "text": "Course structure and study tasks\nYou should, to large parts, be able to use the material provided on these pages for self study. However, if you are a student of Landscape ecology in Münster, we highly recommend to take advantage of the in-person course programme. See o find out when this course is offered."
+  },
+  {
+    "objectID": "index.html#course-outline",
+    "href": "index.html#course-outline",
+    "title": "Applied GIS for Landscape Ecology",
+    "section": "Course Outline",
+    "text": "Course Outline\nGIS BASICS\n1. Introduction to GIS\n2. Introduction to QGIS\n3. Data acquisition\n    1. Data im- and export\n    2. MapServices\n    3. Georeferencing and image rectification\n    4. Digitalisation\n    5. Data simulation\n4. Working with projections\n5. Creating maps\n6. Working with data tables\n    2. Thematic queries\n    3. Thematic joins\n7. Processing of vector data \n    1. Basic vector processing tools\n    3. Areas and distances\n    4. Spatial queries\n8. Working with raster data\n    1. Basic raster processing tools\n    2. Dealing with different extent and resolution\n    3. Calculations with raster data\n    4. Classification and Reclassification\n9. Raster-Vector processing\n    1. Zonal Statistics\n    2. Raster-Vector conversions\n    \nADVANCED ANALYSIS\n10. Advanced mapping\n11. Analyzing terrain data\n    1. Elevation profiles\n    2. Landscape features\n    2. Viewshed anaysis\n    3. Hydrological analysis\n12. Multicriteria analysis    \n13. Cost path analysis\n14. Network analysis\n15. From points to surfaces: Interpolation\n16. GIS in the field - Mobile mapping"
+  },
+  {
+    "objectID": "index.html#literature",
+    "href": "index.html#literature",
+    "title": "Applied GIS for Landscape Ecology",
+    "section": "Literature",
+    "text": "Literature"
+  }
+]

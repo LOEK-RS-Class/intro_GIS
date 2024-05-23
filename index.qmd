@@ -1,0 +1,91 @@
+---
+title: "Applied GIS for Landscape Ecology"
+description: |
+  Material for the ILOEK Course "Applied GIS for Landscape Ecology".
+link-citations: true
+github-repo: LOEK-RS-Class/intro_GIS
+crossrefs-hover: true
+crossref: 
+  fig-labels: arabic
+---
+
+```{r setup, include = FALSE}
+knitr::opts_chunk$set(echo = FALSE, message = FALSE, warning = FALSE, include = TRUE)
+```
+
+
+## Instructors
+Hanna Meyer and Marvin Ludwig (Working group for remote sensing and spatial modelling at the institute of landscape ecology)
+
+
+## Why GIS in landscape ecology?
+
+
+
+## Aims
+
+In this course you will get an introductory overview of typical methods of geoinformatics in the field of landscape ecology.
+We will use QGIS as a software, however, once you know one GIS system, you should be able to transfer your skills beyond GIS if desired/required.
+
+After this course you should...
+* be familiar with the common terminology and concepts in geospatial data analysis
+* know your toolbox of common GIS functions and be able to select and use the suitable GIS functions for your tasks
+* able to create, manipulate, analyze and visualize vector and raster data (in QGIS)
+* most importantly be able to independently use GIS beyond the example tasks of this course!
+
+
+## Course structure and study tasks
+You should, to large parts, be able to use the material provided on these pages for self study.
+However, if you are a student of Landscape ecology in Münster, we highly recommend to take advantage of the in-person course programme.
+See \href{https://studium.uni-muenster.de/qisserver} to find out when this course is offered.
+
+
+
+## Course Outline
+
+```         
+GIS BASICS
+1. Introduction to GIS
+2. Introduction to QGIS
+3. Data acquisition
+    1. Data im- and export
+    2. MapServices
+    3. Georeferencing and image rectification
+    4. Digitalisation
+    5. Data simulation
+4. Working with projections
+5. Creating maps
+6. Working with data tables
+    2. Thematic queries
+    3. Thematic joins
+7. Processing of vector data 
+    1. Basic vector processing tools
+    3. Areas and distances
+    4. Spatial queries
+8. Working with raster data
+    1. Basic raster processing tools
+    2. Dealing with different extent and resolution
+    3. Calculations with raster data
+    4. Classification and Reclassification
+9. Raster-Vector processing
+    1. Zonal Statistics
+    2. Raster-Vector conversions
+    
+ADVANCED ANALYSIS
+10. Advanced mapping
+11. Analyzing terrain data
+    1. Elevation profiles
+    2. Landscape features
+    2. Viewshed anaysis
+    3. Hydrological analysis
+12. Multicriteria analysis    
+13. Cost path analysis
+14. Network analysis
+15. From points to surfaces: Interpolation
+16. GIS in the field - Mobile mapping
+
+```
+
+## Literature
+
+

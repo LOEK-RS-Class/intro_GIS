@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+  render:
+  - "*.qmd"
+  - "*.Rmd"
+  - "!backlog/"
+
+website:
+  title: "Applied GIS for Landscape Ecology"
+  sidebar:
+    style: "floating"
+    search: false
+    contents:
+      - index.qmd
+      - intro.qmd
+
+
+  
+number-depth: 0
+
+format:
+  html:
+    theme: materia
+    number-sections: false
+    grid:
+      sidebar-width: 350px
+execute: 
+  echo: false
+  warning: false
+  message: false
